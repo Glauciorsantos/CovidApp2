@@ -106,4 +106,4 @@ wincertstore==0.2
 wrapt==1.12.1
 zipp==3.1.0
 Scikit-learn==0.22 
-Python 3.8.4
+Python==3.8.4
